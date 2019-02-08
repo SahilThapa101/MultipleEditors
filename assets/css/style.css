@@ -1,27 +1,70 @@
-#text1
+#first section
 {
-	height: 320px;
-	width: 655px;
-	margin-left: 3px;	
-}
-
-#text2
-{
-	height: 320px;
-	width: 655px;
-}
-
-#text3
-{
-	height: 300px;
-	width: 655px;
-	margin-left: 3px;
+	float: left;
+	height: 315px;
+	width: 650px;
+	border: 2px solid black;
 
 }
 
-#text4
+#left1
 {
-	height: 300px;
-	width: 655px;
+	
+}
 
+#right1
+{
+	
+}
+
+#second section
+{
+	float: left;
+	height: 315px;
+	width: 650px;
+	border: 2px solid black;
+
+}
+
+#left2
+{
+	
+}
+
+#right2
+{
+	
+}
+
+#one
+{
+	height: 315px;
+	width: 645px;
+	overflow-y: scroll;
+	padding-left: 11px
+	border: 2px solid black;
+}
+
+#two
+{
+	height: 315px;
+	width: 645px;
+	overflow-y: scroll;
+	border: 2px solid black;
+}
+
+#three
+{
+	height: 315px;
+	width: 645px;
+	overflow-y: scroll;
+	border: 2px solid black;
+}
+
+#four
+{
+	height: 315px;
+	width: 645px;
+	overflow-y: scroll;
+	border: 2px solid black;
 }
